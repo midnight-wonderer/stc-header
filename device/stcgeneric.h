@@ -1,4 +1,7 @@
-// taken July 7 2015 from: http://www.stcmcu.com/datasheet/stc/STC-AD-PDF/STC_NEW_8051.H
+// header for Small Device C Compiler
+// header repository: https://github.com/MidnightWonderer/stc-header
+// original source taken July 7 2015 from official website:
+// http://www.stcmcu.com/datasheet/stc/STC-AD-PDF/STC_NEW_8051.H
 //--------------------------------------------------------------------------------
 // C51 Core SFRs
 //                                             7     6     5     4     3     2     1     0     Reset Value
